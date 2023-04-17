@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-Whole-Heart/static/css/main.1be73127.css",
+    "main.js": "/My-Whole-Heart/static/js/main.6869cb28.js",
+    "index.html": "/My-Whole-Heart/index.html",
+    "main.1be73127.css.map": "/My-Whole-Heart/static/css/main.1be73127.css.map",
+    "main.6869cb28.js.map": "/My-Whole-Heart/static/js/main.6869cb28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be73127.css",
+    "static/js/main.6869cb28.js"
+  ]
+}
